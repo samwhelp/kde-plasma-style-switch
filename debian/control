@@ -1,0 +1,18 @@
+Source: kde-plasma-style-switch
+Section: universe/kde
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
+Homepage: https://samwhelp.github.io/kde-plasma-style-switch/
+Vcs-Browser: https://github.com/samwhelp/kde-plasma-style-switch
+Vcs-Git: https://github.com/samwhelp/kde-plasma-style-switch.git
+
+Package: kde-plasma-style-switch
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Kde Plasma / layout-config
+ This is a kde plasma layout-config collection created by samwhelp.
