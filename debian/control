@@ -14,5 +14,5 @@ Package: kde-plasma-style-switch
 Architecture: all
 Depends:
  ${misc:Depends}
-Description: Kde Plasma / layout-config
- This is a kde plasma layout-config collection created by samwhelp.
+Description: Kde Plasma / style-config
+ This is a kde plasma style-config collection created by samwhelp.
