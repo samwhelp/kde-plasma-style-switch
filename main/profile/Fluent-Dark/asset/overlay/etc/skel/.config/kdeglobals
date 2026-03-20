@@ -1,6 +1,6 @@
 [General]
 AllowKDEAppsToRememberWindowPositions=false
-ColorScheme=FluentRedDark
+ColorScheme=FluentDark
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
 font=Sans Serif,12,-1,5,50,0,0,0,0,0
@@ -9,10 +9,10 @@ smallestReadableFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 toolBarFont=Sans Serif,11,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=Citrus-red-dark
+Theme=Canta-Citrus-Dark
 
 [KDE]
-LookAndFeelPackage=com.github.vinceliuice.Fluent-round-red-dark
+LookAndFeelPackage=com.github.vinceliuice.Fluent-round-dark
 ShowDeleteCommand=true
 SingleClick=false
 widgetStyle=kvantum
